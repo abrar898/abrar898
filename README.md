@@ -21,7 +21,6 @@
 **💼 Role**  
 Full-Stack Web & Mobile Developer with backend strength in **Django, DRF, Node.js, NestJS** and frontend/mobile with **React, Next.js, React Native**.
 
----
 
 ### 🌐 Tech Stack
 - **Backend:** Django, Django REST Framework, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets, JWT & OAuth2  
