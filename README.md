@@ -1,23 +1,21 @@
-<pre>
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║    Hello there! 👋 I’m Muhammad Abrar Ahmad, a 4th-semester     ║
-║    Software Engineering student at NUST.                       ║
-║    I specialize in full-stack web development with Django,     ║
-║    Node.js/Express, and React/Next.js. I love building         ║
-║    scalable backend services and intuitive cross-platform UIs. ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-</pre>
-
 ## 👨‍💻 About Me
 
 <table align="center" width="100%">
   <tr>
     <td>
 
+# 👨‍💻 Full Stack Developer
+
+Hi! I'm a passionate **Full Stack Developer** specializing in building modern, scalable, and high-performance web and mobile applications.  
+I work across both **Frontend** and **Backend** stacks with expertise in multiple frameworks and technologies. 🚀  
+
+
+
 **🎓 Education**  
 4th-semester Software Engineering student at **NUST** (National University of Sciences & Technology, Islamabad).
+
+
+
 
 **💼 Role**  
 Full-Stack Web & Mobile Developer with backend strength in **Django, DRF, Node.js, NestJS** and frontend/mobile with **React, Next.js, React Native**.
