@@ -98,18 +98,8 @@
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake-light.svg#gh-light-mode-only"alt="snake animation"/>
-<!--   <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake.svg" alt="snake animation" /> -->
+  <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake.svg" alt="snake animation" />
 </p>
----
-<p align="center">
-<img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake-light.svg#gh-light-mode-only"alt="snake animation"/>
-</p>
----
-![GitHub Snake Dark](https://raw.githubusercontent.com/abrar898/abrar898/output/snake-dark.svg#gh-dark-mode-only)
-
-
-
 ---
 ## 📫 How to Reach Me
 - 🌐 **GitHub**: [github.com/abrar898](https://github.com/abrar898)  
