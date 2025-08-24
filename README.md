@@ -45,6 +45,42 @@
   - Software Requirement Specifications (SRS), UML diagrams  
   - Writing clean documentation and building production-ready projects
 ---
+## 📦 My Tech Overview  
+
+<div align="center">
+
+  <!-- Tech Stack Card -->
+  <img src="https://img.shields.io/badge/🌐_Tech_Stack-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+    <h3>🌐 Tech Stack</h3>
+    <ul>
+      <li><b>Backend:</b> Django, DRF, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets</li>
+      <li><b>Databases:</b> MongoDB, PostgreSQL, MySQL, Mongoose ORM</li>
+      <li><b>Frontend + Mobile:</b> React.js, Next.js (SSR/SSG), React Native, TypeScript, Tailwind CSS, Bootstrap, Redux</li>
+      <li><b>DevOps & Tools:</b> Git, GitHub, Docker, Linux, GitHub Actions, Vercel, Heroku, AWS</li>
+      <li><b>Security:</b> JWT, OAuth2, Web Security Fundamentals, TryHackMe, HackTheBox</li>
+    </ul>
+  </div>
+
+  <!-- Languages Card -->
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+    <h3>⚙️ Languages</h3>
+    <p>Python, JavaScript, TypeScript, C++, SQL</p>
+  </div>
+
+  <!-- Other Interests Card -->
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+    <h3>🛠️ Other Interests</h3>
+    <ul>
+      <li>Ethical hacking & penetration testing basics</li>
+      <li>Software Requirement Specifications (SRS), UML diagrams</li>
+      <li>Writing clean documentation and production-ready projects</li>
+    </ul>
+  </div>
+
+</div>
+
+---
 <div align="center">
 
   <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
