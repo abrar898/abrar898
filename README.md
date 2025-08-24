@@ -46,7 +46,7 @@ Python, JavaScript, TypeScript, C++, SQL
     </td>
   </tr>
 </table>
----
+
 ## 🚀 Tech Stack
 
 <p align="center">
