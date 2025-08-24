@@ -102,7 +102,8 @@
 </p>
 
 ---
-
+![GitHub Snake Light](https://raw.githubusercontent.com/abrar898/workflows/output/snake.svg)
+---
 ## 📫 How to Reach Me
 - 🌐 **GitHub**: [github.com/abrar898](https://github.com/abrar898)  
 - 💼 **LinkedIn**: [linkedin.com/in/muhammad-abrar-ahmad-2b2666311](https://www.linkedin.com/in/muhammad-abrar-ahmad-2b2666311/)  
