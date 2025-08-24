@@ -83,6 +83,16 @@
 </p>
 
 ---
+## 🛠️ Technologies & Tools
+
+🖥️ Python | Django | Django REST Framework | Node.js | Express.js | NestJS
+⚡ JavaScript | TypeScript | React.js | Next.js | React Native
+🗄️ MongoDB | PostgreSQL | MySQL
+🎨 HTML5 | CSS3 | Tailwind CSS | Bootstrap
+🐧 Linux | Docker | Git | GitHub | GitHub Actions | Vercel | Heroku | AWS
+🔒 JWT | OAuth2 | Web Security | UML | SRS | Documentation
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
