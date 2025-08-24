@@ -98,11 +98,9 @@
 
 ## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img src="https://github.com/abrar898/abrar898/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/abrar898/abrar898/blob/workflows/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-
-![GitHub Snake Light](https://raw.githubusercontent.com/abrar898/abrar898/workflows/output/main.svg)
 ---
 ## 📫 How to Reach Me
 - 🌐 **GitHub**: [github.com/abrar898](https://github.com/abrar898)  
