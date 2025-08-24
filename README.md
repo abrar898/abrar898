@@ -10,41 +10,6 @@
   ╚════════════════════════════════════════════════════════════════╝
 -->
 
-# 👨‍💻 About Me
-- 🎓 **Education**  
-  4th-semester Software Engineering student at **NUST** (National University of Sciences & Technology, Islamabad).
-
-- 💼 **Role**  
-  Full-Stack Web & Mobile Developer with backend strength in **Django, DRF, Node.js, NestJS** and frontend/mobile with **React, Next.js, React Native**.
-
-- 🌐 **Tech Stack**  
-  - **Backend**:  
-    - Django, Django REST Framework, Node.js, Express.js, NestJS  
-    - MongoDB, PostgreSQL, MySQL, Mongoose ORM  
-    - REST APIs, GraphQL, WebSockets  
-    - JWT & OAuth2 Authentication  
-
-  - **Frontend + Mobile**:  
-    - React.js, Next.js (SSR/SSG), React Native  
-    - HTML5, CSS3, JavaScript (ES6+), TypeScript  
-    - Tailwind CSS, Bootstrap, Redux, Context API  
-
-  - **DevOps & Tools**:  
-    - Git, GitHub, Docker, Linux  
-    - GitHub Actions (CI/CD), Vercel, Heroku, AWS (basics)  
-
-  - **Security & Recon**:  
-    - Web security fundamentals, JWT hardening, secure coding  
-    - Active on TryHackMe & HackTheBox  
-
-- ⚙️ **Languages**  
-  Python, JavaScript, TypeScript, C++, SQL  
-
-- 🛠️ **Other Interests**  
-  - Ethical hacking & penetration testing basics  
-  - Software Requirement Specifications (SRS), UML diagrams  
-  - Writing clean documentation and building production-ready projects
-
 
 
 ## 📦 My Tech Overview  
@@ -52,8 +17,7 @@
 <div align="center">
 
   <!-- Tech Stack Card -->
-  <img src="https://img.shields.io/badge/🌐_Tech_Stack-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:15px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
     <h3>🌐 Tech Stack</h3>
     <ul>
       <li><b>Backend:</b> Django, DRF, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets</li>
@@ -65,13 +29,13 @@
   </div>
 
   <!-- Languages Card -->
-  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:15px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
     <h3>⚙️ Languages</h3>
     <p>Python, JavaScript, TypeScript, C++, SQL</p>
   </div>
 
   <!-- Other Interests Card -->
-  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:10px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
+  <div style="background:#0D1117; color:#E6EDF3; border-radius:10px; padding:20px; margin:15px 0; width:90%; max-width:700px; text-align:left; border:1px solid #30363D;">
     <h3>🛠️ Other Interests</h3>
     <ul>
       <li>Ethical hacking & penetration testing basics</li>
@@ -81,6 +45,7 @@
   </div>
 
 </div>
+
 
 ---
 <div align="center">
