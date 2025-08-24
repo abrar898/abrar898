@@ -43,7 +43,44 @@
 - 🛠️ **Other Interests**  
   - Ethical hacking & penetration testing basics  
   - Software Requirement Specifications (SRS), UML diagrams  
+  - Writing clean documentation and building production-ready projects
+---
+<div align="center">
+
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
+
+  <div style="background: rgba(10, 25, 47, 0.9); border-radius: 15px; padding: 20px; width: 90%; max-width: 700px; margin: 20px auto; color: #E6F1FF; box-shadow: 0px 0px 15px rgba(100, 255, 218, 0.5); backdrop-filter: blur(10px); text-align: left;">
+
+  ## 🌐 Tech Stack  
+  - **Backend**:  
+    - Django, Django REST Framework, Node.js, Express.js, NestJS  
+    - MongoDB, PostgreSQL, MySQL, Mongoose ORM  
+    - REST APIs, GraphQL, WebSockets  
+    - JWT & OAuth2 Authentication  
+
+  - **Frontend + Mobile**:  
+    - React.js, Next.js (SSR/SSG), React Native  
+    - HTML5, CSS3, JavaScript (ES6+), TypeScript  
+    - Tailwind CSS, Bootstrap, Redux, Context API  
+
+  - **DevOps & Tools**:  
+    - Git, GitHub, Docker, Linux  
+    - GitHub Actions (CI/CD), Vercel, Heroku, AWS (basics)  
+
+  - **Security & Recon**:  
+    - Web security fundamentals, JWT hardening, secure coding  
+    - Active on TryHackMe & HackTheBox  
+
+  ## ⚙️ Languages  
+  Python, JavaScript, TypeScript, C++, SQL  
+
+  ## 🛠️ Other Interests  
+  - Ethical hacking & penetration testing basics  
+  - Software Requirement Specifications (SRS), UML diagrams  
   - Writing clean documentation and building production-ready projects  
+
+  </div>
+</div>
 
 ---
 
@@ -52,35 +89,6 @@
 - 🔒 Security: Harden Django/Node APIs with JWT/OAuth2  
 - 🐳 Dockerizing full-stack apps (Django + React + PostgreSQL)  
 - ☁️ Cloud deployment with AWS, Vercel & Heroku  
-
----
-
-## 🛠️ Technologies & Tools
-<p align="center">
-  <!-- Backend -->
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />&nbsp;
-  <img alt="Django" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/django/icon.png" />&nbsp;
-  <img alt="DRF" height="40" src="https://raw.githubusercontent.com/encode/django-rest-framework/main/docs/_static/rest-framework-logo.png" />&nbsp;
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />&nbsp;
-  <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" />&nbsp;
-  <img alt="GraphQL" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/graphql/graphql.png" />&nbsp;
-  <img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />&nbsp;
-  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />&nbsp;
-
-  <!-- Frontend -->
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />&nbsp;
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />&nbsp;
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />&nbsp;
-  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />&nbsp;
-  <img alt="React Native" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />&nbsp;
-  <img alt="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind-css/icon.png" />&nbsp;
-  <img alt="Bootstrap" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />&nbsp;
-
-  <!-- Tools -->
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />&nbsp;
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />&nbsp;
-  <img alt="Linux" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />&nbsp;
-</p>
 
 
 ---
