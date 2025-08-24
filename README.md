@@ -83,15 +83,19 @@
 </p>
 
 ---
-## 🛠️ Technologies & Tools
+## 🚀 Tech Stack
 
-🖥️ Python | Django | Django REST Framework | Node.js | Express.js | NestJS
-⚡ JavaScript | TypeScript | React.js | Next.js | React Native
-🗄️ MongoDB | PostgreSQL | MySQL
-🎨 HTML5 | CSS3 | Tailwind CSS | Bootstrap
-🐧 Linux | Docker | Git | GitHub | GitHub Actions | Vercel | Heroku | AWS
-🔒 JWT | OAuth2 | Web Security | UML | SRS | Documentation
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs" height="50" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,reactnative" height="50" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" height="50" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" height="50" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,aws,heroku,vercel" height="50" />
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -104,7 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar898&layout=compact&theme=radical" height="180"/>
 </p>
 
----
+
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake.svg" alt="snake animation" />
