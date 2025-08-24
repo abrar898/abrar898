@@ -11,82 +11,47 @@
 
 
 
+---
+## 👨‍💻 About Me
 
+<table align="center" width="100%">
+  <tr>
+    <td>
 
-<div align="center">
+**🎓 Education**  
+4th-semester Software Engineering student at **NUST** (National University of Sciences & Technology, Islamabad).
 
-  <div style="background: linear-gradient(145deg, #0d1117 50%, #161b22 50%); border: 2px solid #ff4d6d; border-radius: 12px; padding: 20px; width: 90%; max-width: 800px; text-align: left; color: #f8f0f2; box-shadow: 0px 0px 15px rgba(255, 77, 109, 0.5);">
-
-  <h2 align="center" style="color:#ff4d6d;">👨‍💻 About Me</h2>
-
-  - 🎓 <b>Education</b>  
-    4th-semester Software Engineering student at <b>NUST</b> (National University of Sciences & Technology, Islamabad).
-
-  - 💼 <b>Role</b>  
-    Full-Stack Web & Mobile Developer with backend strength in <b>Django, DRF, Node.js, NestJS</b> and frontend/mobile with <b>React, Next.js, React Native</b>.
-
-  ---
-
-  <h3 style="color:#ff4d6d;">🌐 Tech Stack</h3>
-
-  - <b>Backend:</b> Django, Django REST Framework, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets, JWT & OAuth2  
-  - <b>Databases:</b> MongoDB, PostgreSQL, MySQL, Mongoose ORM  
-  - <b>Frontend + Mobile:</b> React.js, Next.js (SSR/SSG), React Native, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Redux, Context API  
-  - <b>DevOps & Tools:</b> Git, GitHub, Docker, Linux, GitHub Actions, Vercel, Heroku, AWS  
-  - <b>Security:</b> Web security fundamentals, JWT hardening, secure coding, TryHackMe, HackTheBox  
-
-  ---
-
-  <h3 style="color:#ff4d6d;">⚙️ Languages</h3>
-  Python, JavaScript, TypeScript, C++, SQL  
-
-  ---
-
-  <h3 style="color:#ff4d6d;">🛠️ Other Interests</h3>
-  - Ethical hacking & penetration testing basics  
-  - Software Requirement Specifications (SRS), UML diagrams  
-  - Writing clean documentation and building production-ready projects  
-
-  </div>
-</div>
+**💼 Role**  
+Full-Stack Web & Mobile Developer with backend strength in **Django, DRF, Node.js, NestJS** and frontend/mobile with **React, Next.js, React Native**.
 
 ---
-<div align="center">
 
-  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
+### 🌐 Tech Stack
+- **Backend:** Django, Django REST Framework, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets, JWT & OAuth2  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Mongoose ORM  
+- **Frontend + Mobile:** React.js, Next.js (SSR/SSG), React Native, TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Redux, Context API  
+- **DevOps & Tools:** Git, GitHub, Docker, Linux, GitHub Actions (CI/CD), Vercel, Heroku, AWS  
+- **Security:** Web security fundamentals, JWT hardening, secure coding, TryHackMe, HackTheBox
 
-  <div style="background: rgba(10, 25, 47, 0.9); border-radius: 15px; padding: 20px; width: 90%; max-width: 700px; margin: 20px auto; color: #E6F1FF; box-shadow: 0px 0px 15px rgba(100, 255, 218, 0.5); backdrop-filter: blur(10px); text-align: left;">
+---
 
-  ## 🌐 Tech Stack  
-  - **Backend**:  
-    - Django, Django REST Framework, Node.js, Express.js, NestJS  
-    - MongoDB, PostgreSQL, MySQL, Mongoose ORM  
-    - REST APIs, GraphQL, WebSockets  
-    - JWT & OAuth2 Authentication  
+### ⚙️ Languages
+Python, JavaScript, TypeScript, C++, SQL
 
-  - **Frontend + Mobile**:  
-    - React.js, Next.js (SSR/SSG), React Native  
-    - HTML5, CSS3, JavaScript (ES6+), TypeScript  
-    - Tailwind CSS, Bootstrap, Redux, Context API  
+---
 
-  - **DevOps & Tools**:  
-    - Git, GitHub, Docker, Linux  
-    - GitHub Actions (CI/CD), Vercel, Heroku, AWS (basics)  
+### 🛠️ Other Interests
+- Ethical hacking & penetration testing basics  
+- Software Requirement Specifications (SRS), UML diagrams  
+- Writing clean documentation and building production-ready projects
 
-  - **Security & Recon**:  
-    - Web security fundamentals, JWT hardening, secure coding  
-    - Active on TryHackMe & HackTheBox  
+    </td>
+  </tr>
+</table>
 
-  ## ⚙️ Languages  
-  Python, JavaScript, TypeScript, C++, SQL  
 
-  ## 🛠️ Other Interests  
-  - Ethical hacking & penetration testing basics  
-  - Software Requirement Specifications (SRS), UML diagrams  
-  - Writing clean documentation and building production-ready projects  
 
-  </div>
-</div>
+
 
 ---
 
