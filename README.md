@@ -1,4 +1,4 @@
-
+<--
   ╔════════════════════════════════════════════════════════════════╗
   ║                                                                ║
   ║    Hello there! 👋 I’m Muhammad Abrar Ahmad, a 4th-semester     ║
@@ -9,7 +9,7 @@
   ║                                                                ║
   ╚════════════════════════════════════════════════════════════════╝
 
-
+-->
 
 ---
 ## 👨‍💻 About Me
@@ -41,27 +41,15 @@ Python, JavaScript, TypeScript, C++, SQL
 ---
 
 ### 🛠️ Other Interests
-- Ethical hacking & penetration testing basics  
-- Software Requirement Specifications (SRS), UML diagrams  
-- Writing clean documentation and building production-ready projects
-
-    </td>
-  </tr>
-</table>
-
-
-
-
-
----
-
 ## 🎯 What I’m Learning
 - 📈 Advanced Next.js with TypeScript (API routes, SSR/SSG)  
 - 🔒 Security: Harden Django/Node APIs with JWT/OAuth2  
 - 🐳 Dockerizing full-stack apps (Django + React + PostgreSQL)  
-- ☁️ Cloud deployment with AWS, Vercel & Heroku  
+- ☁️ Cloud deployment with AWS, Vercel & Heroku 
 
-
+    </td>
+  </tr>
+</table>
 ---
 ## 🚀 Tech Stack
 
