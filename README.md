@@ -82,6 +82,12 @@
   <img alt="Linux" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />&nbsp;
 </p>
 
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,tailwind,bootstrap,nodejs,express,mongodb,graphql,python,django,c,cpp,java,mysql,linux,git,github" />
+</p>
+
 ---
 ## 🚀 Tech Stack
 
