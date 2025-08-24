@@ -95,11 +95,11 @@
 </p>
 
 ---
-
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake.svg" alt="snake animation" />
 </p>
+
 ---
 ## 📫 How to Reach Me
 - 🌐 **GitHub**: [github.com/abrar898](https://github.com/abrar898)  
