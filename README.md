@@ -44,7 +44,9 @@
   - Ethical hacking & penetration testing basics  
   - Software Requirement Specifications (SRS), UML diagrams  
   - Writing clean documentation and building production-ready projects
----
+
+
+
 ## 📦 My Tech Overview  
 
 <div align="center">
