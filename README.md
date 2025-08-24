@@ -13,6 +13,42 @@
 
 
 
+<div align="center">
+
+  <div style="background: linear-gradient(145deg, #0d1117 50%, #161b22 50%); border: 2px solid #ff4d6d; border-radius: 12px; padding: 20px; width: 90%; max-width: 800px; text-align: left; color: #f8f0f2; box-shadow: 0px 0px 15px rgba(255, 77, 109, 0.5);">
+
+  <h2 align="center" style="color:#ff4d6d;">👨‍💻 About Me</h2>
+
+  - 🎓 <b>Education</b>  
+    4th-semester Software Engineering student at <b>NUST</b> (National University of Sciences & Technology, Islamabad).
+
+  - 💼 <b>Role</b>  
+    Full-Stack Web & Mobile Developer with backend strength in <b>Django, DRF, Node.js, NestJS</b> and frontend/mobile with <b>React, Next.js, React Native</b>.
+
+  ---
+
+  <h3 style="color:#ff4d6d;">🌐 Tech Stack</h3>
+
+  - <b>Backend:</b> Django, Django REST Framework, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets, JWT & OAuth2  
+  - <b>Databases:</b> MongoDB, PostgreSQL, MySQL, Mongoose ORM  
+  - <b>Frontend + Mobile:</b> React.js, Next.js (SSR/SSG), React Native, TypeScript, HTML5, CSS3, Tailwind, Bootstrap, Redux, Context API  
+  - <b>DevOps & Tools:</b> Git, GitHub, Docker, Linux, GitHub Actions, Vercel, Heroku, AWS  
+  - <b>Security:</b> Web security fundamentals, JWT hardening, secure coding, TryHackMe, HackTheBox  
+
+  ---
+
+  <h3 style="color:#ff4d6d;">⚙️ Languages</h3>
+  Python, JavaScript, TypeScript, C++, SQL  
+
+  ---
+
+  <h3 style="color:#ff4d6d;">🛠️ Other Interests</h3>
+  - Ethical hacking & penetration testing basics  
+  - Software Requirement Specifications (SRS), UML diagrams  
+  - Writing clean documentation and building production-ready projects  
+
+  </div>
+</div>
 
 ---
 <div align="center">
