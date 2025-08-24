@@ -102,7 +102,7 @@
 </p>
 
 
-![GitHub Snake Light](https://raw.githubusercontent.com/abrar898/workflows/output/main.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/abrar898/abrar898/workflows/output/main.svg)
 ---
 ## 📫 How to Reach Me
 - 🌐 **GitHub**: [github.com/abrar898](https://github.com/abrar898)  
