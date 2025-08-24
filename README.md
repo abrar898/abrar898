@@ -1,13 +1,14 @@
-<!-- ╔════════════════════════════════════════════════════════════════╗ 
-     ║                                                                ║
-     ║ Hello there! 👋 I’m Muhammad Abrar Ahmad, a 4th-semester      ║      
-     ║ Software Engineering student at NUST.                          ║                          
-     ║ I specialize in full-stack web development with Django,        ║ 
-     ║ Node.js/Express, and React/Next.js. I love building            ║ 
-     ║scalable backend services and intuitive cross-platform UIs.     ║
-     ║                                                                ║
-     ╚════════════════════════════════════════════════════════════════╝ -->
-
+<pre>
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║    Hello there! 👋 I’m Muhammad Abrar Ahmad, a 4th-semester     ║
+║    Software Engineering student at NUST.                       ║
+║    I specialize in full-stack web development with Django,     ║
+║    Node.js/Express, and React/Next.js. I love building         ║
+║    scalable backend services and intuitive cross-platform UIs. ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+</pre>
 
 ## 👨‍💻 About Me
 
