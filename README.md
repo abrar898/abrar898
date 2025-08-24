@@ -83,16 +83,11 @@
 </p>
 
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,tailwind,bootstrap,nodejs,express,mongodb,graphql,python,django,c,cpp,java,mysql,linux,git,github" />
-</p>
-
 ---
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,nestjs,graphql" height="50" />
   <br/>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,reactnative" height="50" />
   <br/>
