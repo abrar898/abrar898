@@ -100,6 +100,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abrar898/abrar898/output/snake.svg" alt="snake animation" />
 </p>
+![GitHub Snake Light](https://raw.githubusercontent.com/abrar898/abrar898/output/snake-light.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/abrar898/abrar898/output/snake-dark.svg#gh-dark-mode-only)
+
 
 
 ---
