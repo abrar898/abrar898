@@ -1,7 +1,7 @@
 <!--
   ╔════════════════════════════════════════════════════════════════╗
   ║                                                                ║
-  ║    Hello there! 👋 I’m Muhammad Abrar Ahmad, a 4th-semester     ║
+  ║    Hello there! 👋 I’m Muhammad Abrar Ahmad, a 5th-semester     ║
   ║    Software Engineering student at NUST.                       ║
   ║    I specialize in full-stack web development with Django,     ║
   ║    Node.js/Express, and React/Next.js. I love building         ║
