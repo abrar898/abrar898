@@ -17,7 +17,7 @@
 # 👨‍💻 About Me  
 
 ### 🎓 Education  
-I’m **Muhammad Abrar Ahmad**, a 6th-semester **Software Engineering student at NUST**.  
+I’m **Muhammad Abrar Ahmad**, a  **Software Engineering student at NUST**.  
 
 ---
 
